@@ -1,8 +1,16 @@
 # Heuristic Foundry Lab
 
+![Heuristic Foundry Lab — AI-assisted interface inspection for UI/UX designers](docs/images/cover.jpg)
+
 An open-source AI-assisted interface inspection toolkit by **Ramy Hammady** for product and UI/UX designers.
 
 **Prototype v0.1.** Upload UI screenshots, describe a task, receive source-linked observations from three AI reviewer roles, and review findings before exporting. It is a heuristic inspection aid, not a substitute for expert review, user testing or accessibility assessment. Live Azure operation and evaluation quality have not been verified in the development environment.
+
+## The concept
+
+![A designer reviews screenshot observations from interaction, task and clarity perspectives](docs/images/concept.jpg)
+
+Inspect interface screenshots through three AI reviewer roles, then use human judgement to assess observations and plan follow-up testing. These images are conceptual artwork, not screenshots of the application or evidence of completed evaluations.
 
 ## Quick start
 
